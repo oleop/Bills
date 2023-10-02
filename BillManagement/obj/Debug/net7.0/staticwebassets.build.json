@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0xG3VMtL+rAhtHLpbafNkiFCBm7Lj0v5Zu1q42j+M3M=",
+  "Source": "BillManagement",
+  "BasePath": "_content/BillManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
